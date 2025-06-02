@@ -13,7 +13,7 @@
 ## About
 
 This repository contains the private source and legal documentation for the Discord bot **Harm**.  
-The bot is the original intellectual property of Harm#8889 and is **not open source**.
+The bot is the original intellectual property of darks.4sure and is **not open source**.
 
 ---
 
