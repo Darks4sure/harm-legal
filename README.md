@@ -1,8 +1,11 @@
 # Harm Discord Bot
 
 **Bot Name:** Harm  
+
 **Owner:** darks.4sure
+
 **Bot ID:** 1247714393752473690  
+
 **Creation Date:** June 5, 2024
 
 ---
