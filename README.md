@@ -32,7 +32,7 @@ Please see the `LICENSE.txt` file for full legal terms.
 
 ## Ownership Proof
 
-The `OWNERSHIP.txt` file documents proof of original creation and authorship by Harm#8889, dated June 5, 2024.
+The `OWNERSHIP.txt` file documents proof of original creation and authorship by darks.4sure, dated June 5, 2024.
 
 ---
 
