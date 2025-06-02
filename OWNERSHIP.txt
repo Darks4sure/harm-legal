@@ -1,0 +1,24 @@
+Bot Name: Harm  
+Discord Tag: Harm#8889  
+Bot ID: 1247714393752473690  
+Creation Date: June 5, 2024  
+Owner: darks.4sure 
+Contact Email: abcdx7304@gmail.com
+
+This document certifies that I, darks.4sure, am the original creator and legal owner of the Discord bot named “Harm”.
+
+Ownership includes but is not limited to:
+- Original command structure and logic
+- Bot name, branding, visual identity (profile pic, banner, description)
+- Bot behavior, features, and response system
+- All creative decisions and technical implementations
+
+This bot was originally created on June 5, 2024. It is actively maintained and privately hosted. Its source code is **not public**, but the bot is legally protected against imitation or copying.
+
+Any replication, reverse-engineering, or impersonation of this bot or its features without my written permission is strictly prohibited and will be met with takedown requests and legal action.
+
+This file exists as formal proof of authorship and intellectual property rights.
+
+Signed,  
+darks.2pdats  
+June 2, 2025
